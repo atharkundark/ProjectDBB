@@ -1,2 +1,2 @@
 let nama = prompt("Masukkan nama Anda?", " ");
-document.getElementById("namamu").innerHTML = nama;
+document.getElementById("namamu").innerHTML = nama
